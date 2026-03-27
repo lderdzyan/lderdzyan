@@ -67,8 +67,6 @@ A lightweight JavaScript utility library for reusable client-side hooks and UI l
 - Designed for frontend scalability and reuse
   
 🔗 https://github.com/lderdzyan/Client-Side-Hook
-
-s
 ---
 ## 📫 Contact
 - LinkedIn:[https://am.linkedin.com/in/lusine-derdzyan-37819335a](https://am.linkedin.com/in/lusine-derdzyan-37819335a)
