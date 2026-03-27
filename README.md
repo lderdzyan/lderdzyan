@@ -1,4 +1,4 @@
-# Hi, I'm Lusine 👋
+# Hi, I'm Lucy 👋
 
 🚀 DevOps Engineer | AWS | Terraform | Docker | CI/CD | Pulumi
 
