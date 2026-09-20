@@ -1,4 +1,4 @@
-# Hi, I'm Lucy 👋
+# Hi, I'm Lusine 
 
 🚀 DevOps Engineer
 
