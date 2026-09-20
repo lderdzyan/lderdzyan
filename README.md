@@ -50,7 +50,7 @@ Terraform-based infrastructure project for testing and validating AWS deployment
 
 ---
 
-### Azure Function Software Template
+### 💿 Azure Function Software Template
 
 A Backstage software template for scaffolding Azure Functions projects with predefined project structure, configurations, and development setup. Designed to standardize and simplify the creation of new Azure Function services through Backstage.
 
