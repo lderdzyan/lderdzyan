@@ -50,11 +50,11 @@ Terraform-based infrastructure project for testing and validating AWS deployment
 
 ---
 
-### 💿 Azure Function Software Template
+### 💿 Backstage Image
 
-A Backstage software template for scaffolding Azure Functions projects with predefined project structure, configurations, and development setup. Designed to standardize and simplify the creation of new Azure Function services through Backstage.
+A Backstage Image for scaffolding projects with predefined project structure, configurations, and development setup. Designed to standardize and simplify the creation of new Azure Function services through Backstage.
 
-🔗 [https://github.com/lderdzyan/azure-function-software-template](https://github.com/lderdzyan/azure-function-software-template)
+🔗 [https://github.com/lderdzyan/backstage-image](https://github.com/lderdzyan/backstage-image)
 ---
 ### 🌐 Client-Side Hooks Library
 A lightweight JavaScript utility library for reusable client-side hooks and UI logic abstraction.
